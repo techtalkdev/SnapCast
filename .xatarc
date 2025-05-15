@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Mike-s-workspace-4soh22.eu-central-1.xata.sh/db/dev_scapcast",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
